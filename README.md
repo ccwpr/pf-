@@ -119,7 +119,6 @@ Enter the Name : primary-pfsense
 
 ![kv6 1](https://user-images.githubusercontent.com/108870766/181465725-77edbb35-df94-49bd-a750-e9243212dccd.png)
 
-Click on Add hardware and then Click on Network 
 
 Network source : Bridge br0: Host device eno1
 
@@ -127,6 +126,8 @@ Device module : virtio
 
 
 ![kv6a 1](https://user-images.githubusercontent.com/108870766/181465807-fad629a1-bb07-49c5-83d0-fa010863185f.png)
+
+Click on Add hardware and then Click on Network 
 
 Network source : Virtual network 'default' :NAT
 
@@ -136,6 +137,7 @@ Device module : e1000 or according to you select anyone
 
 ![kv7 1](https://user-images.githubusercontent.com/108870766/181465867-55821687-eeeb-4b5a-abbc-3f074f48fff3.png)
 
+Once conpleted click on Finish and start your machine
 
 ![l1](https://user-images.githubusercontent.com/108870766/181205066-efb86c16-3706-4da0-a8f6-75dfec726c96.png)
 
@@ -171,6 +173,15 @@ Once ISO file is removed normally or forcefully then Click on REBOOT
 In the Below image we can see that it has already feth the ip for both LAN and WAN
 
 ![pfsense status ](https://user-images.githubusercontent.com/108870766/181241280-888f61db-5000-469e-a677-cfd70accf6d1.png)
+
+ Click on 2) Set interface(s) IP address
+
+ The script to set an interface IP address can set WAN, LAN, or OPT interface IP addresses
+ 
+ ![set interface ](https://user-images.githubusercontent.com/108870766/181503795-d9f7aa27-7d15-4db1-ad53-69ab5b94baf0.png)
+ 
+ 
+
 
 
 
