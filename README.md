@@ -193,12 +193,15 @@ Configure IPv4 address WAN interface via DHCP (y/n) n  (Because we have to set s
  ![rr2](https://user-images.githubusercontent.com/108870766/181506099-0e0cdaf2-5f7c-477a-b50a-b8c13c43a475.png)
  
  Press ENTER 
+ 
  Now proceed for LAN interface and assign the IP and also provide the Range of LAN IP
  
  
  ![r3](https://user-images.githubusercontent.com/108870766/181506399-ee620f0b-b828-4544-b8a2-0994818edb93.png)
  
  ![r4](https://user-images.githubusercontent.com/108870766/181506508-c8714ef0-2820-47df-a247-403f8768c4f7.png)
+ 
+ 
  
  
 
