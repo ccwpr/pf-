@@ -112,11 +112,27 @@ Choose Memory and CPU setting
 ![kv4 1](https://user-images.githubusercontent.com/108870766/181465587-67a1403f-558f-4911-99ef-397160f9c698.png)
 
 Click on Enable storage for this virtual machine 
+
 ![kv5 1](https://user-images.githubusercontent.com/108870766/181465656-a098b08f-097f-488e-8004-8527fd1eb30b.png)
+
+Enter the Name : primary-pfsense 
 
 ![kv6 1](https://user-images.githubusercontent.com/108870766/181465725-77edbb35-df94-49bd-a750-e9243212dccd.png)
 
+Click on Add hardware and then Click on Network 
+
+Network source : Bridge br0: Host device eno1
+
+Device module : virtio 
+
+
 ![kv6a 1](https://user-images.githubusercontent.com/108870766/181465807-fad629a1-bb07-49c5-83d0-fa010863185f.png)
+
+Network source : Virtual network 'default' :NAT
+
+MAC addres : it will be default
+
+Device module : e1000 or according to you select anyone 
 
 ![kv7 1](https://user-images.githubusercontent.com/108870766/181465867-55821687-eeeb-4b5a-abbc-3f074f48fff3.png)
 
