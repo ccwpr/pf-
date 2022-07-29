@@ -201,6 +201,40 @@ Configure IPv4 address WAN interface via DHCP (y/n) n  (Because we have to set s
  
  ![r4](https://user-images.githubusercontent.com/108870766/181506508-c8714ef0-2820-47df-a247-403f8768c4f7.png)
  
+ ## Now we have to create a vm from Centos 8 as a PFSENSE-CLIENT 
+ 
+ Once it was created it will fetch the ip as per the range of LAN was provided 
+  
+  kindly ignore the ip 
+  
+ ![client machine](https://user-images.githubusercontent.com/108870766/181681292-31572c43-e2eb-4eac-8a37-b8cd239e093b.png)
+ 
+ 
+ ## Now open pfsense dashboard with WAN ip in browser 
+ 
+ Username : ADMIN 
+ 
+ Password : pfsense 
+ 
+ Both username and password is default 
+ 
+ ![pfsense dashboard](https://user-images.githubusercontent.com/108870766/181682133-54c71262-8f31-4366-ad8a-aa47af623911.png)
+ 
+ Now here we Can see the Dashboard and please setup Wizard and complete that once completed it will look like below image.
+ 
+ ![pfsense 1](https://user-images.githubusercontent.com/108870766/181682789-b071cca6-3bfd-4023-a0b2-e22e3ea2939b.png)
+ 
+ Now we are moving **HOW TO BLOCK ANY WEBSITE USING A PFSENSE FIREWALL**
+
+ https://www.billysoftacademy.com/how-to-block-any-website-using-a-pfsense-firewall/
+ 
+ 
+
+ 
+ 
+
+ 
+ 
  
  
  
