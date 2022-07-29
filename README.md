@@ -7,8 +7,6 @@
 |5	|configure primary-pfsense|
 |6	|create a pfsense client machine|
 |7	|Go through pfsense Dashboard and block the website|
-|8	|create seconpfsense | 
-|9	|pfsense Documentation|
 
 
 # Introduction
