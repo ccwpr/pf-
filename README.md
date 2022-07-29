@@ -224,12 +224,19 @@ Configure IPv4 address WAN interface via DHCP (y/n) n  (Because we have to set s
  
  ![pfsense 1](https://user-images.githubusercontent.com/108870766/181682789-b071cca6-3bfd-4023-a0b2-e22e3ea2939b.png)
  
+ # Access pfSense using web GUI
+ 
  Now we are moving **HOW TO BLOCK ANY WEBSITE USING A PFSENSE FIREWALL**
  
  I mentioned a link Below which I followed for Site blocking 
  
  (https://www.billysoftacademy.com/how-to-block-any-website-using-a-pfsense-firewall/)
  
+ 
+ (https://docs.netgate.com/pfsense/en/latest/packages/cache-proxy/squidguard.html)
+
+
+   
  
 
  
